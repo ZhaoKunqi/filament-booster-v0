@@ -34,25 +34,25 @@ Some common challenges include:
 
 1. Drag and Friction from the Filament Path
 
-The filament path from the spool to the extruder can be quite long, causing drag and friction that hinders smooth filament movement. 
+    The filament path from the spool to the extruder can be quite long, causing drag and friction that hinders smooth filament movement. 
 
-This resistance can prevent the extruder from effectively pushing the filament through the nozzle, leading to slower print speeds and inconsistent extrusion.
+    This resistance can prevent the extruder from effectively pushing the filament through the nozzle, leading to slower print speeds and inconsistent extrusion.
 
 2. Drag and Friction from the Filament Spool
 
-Traditional filament spools, as well as active heated filament spool boxes, can introduce additional drag and friction. 
+    Traditional filament spools, as well as active heated filament spool boxes, can introduce additional drag and friction. 
 
-These factors can impede the filament's movement, especially when printing at higher speeds. 
+    These factors can impede the filament's movement, especially when printing at higher speeds. 
 
-As a result, the extruder may struggle to maintain a consistent filament flow, compromising the print quality.
+    As a result, the extruder may struggle to maintain a consistent filament flow, compromising the print quality.
 
 3. Limitations of Less Powerful Extruders
 
-Some 3D printers come with extruders that have limited torque or pushing force. 
+    Some 3D printers come with extruders that have limited torque or pushing force. 
 
-This limitation can restrict the maximum speed at which the filament can be extruded. 
+    This limitation can restrict the maximum speed at which the filament can be extruded. 
 
-Consequently, users may experience longer print times and difficulties achieving desired print quality, particularly when attempting to print at higher speeds.
+    Consequently, users may experience longer print times and difficulties achieving desired print quality, particularly when attempting to print at higher speeds.
 
 ## Design
 
